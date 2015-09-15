@@ -1,4 +1,4 @@
-# co-30yr-snowfall-1980-2010
+# COLORADO 30yr snowfall geodata: 1980-2010
 
 This is a geodata repository containing shapefiles and maps [image, kmz, pdf] supporting the publication below.
 NOTE: refer to <b>README text files</b> in each /geodata/shp/ directory for descriptions of attributes.
