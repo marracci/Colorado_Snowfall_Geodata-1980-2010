@@ -1,6 +1,8 @@
 # co-30yr-snowfall-1980-2010
 
-This repository contains geospatial data [vector, raster, attribute] and maps [image, pdf] supporting the publication below. 
+This is a geodata repository containing shapefiles and maps [image, kmz, pdf] supporting the publication below.
+
+Download the <a href="http://www.peakmaps.com/sawatch/MAPBOOK-1980-2010_ColdSeason_Snowfall_CAIC_v1_1.pdf" target="blank">Full Mapbook</a>.
 
 <a href="http://arc.lib.montana.edu/snow-science/objects/ISSW14_paper_P1.15.pdf" target="_blank">Climate-Scale Maps of Cold-Season Precipitation in the Mountainous Areas of Colorado for Operational Forecasting Applications</a>
 
