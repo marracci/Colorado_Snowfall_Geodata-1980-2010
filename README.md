@@ -1,6 +1,8 @@
 # co-30yr-snowfall-1980-2010
 
 This is a geodata repository containing shapefiles and maps [image, kmz, pdf] supporting the publication below.
+NOTE: refer to <b>README text files</b> in each /geodata/shp/ directory for descriptions of attributes.
+
 
 Download the <a href="http://www.peakmaps.com/sawatch/MAPBOOK-1980-2010_ColdSeason_Snowfall_CAIC_v1_1.pdf" target="blank">Full Mapbook</a>.
 
