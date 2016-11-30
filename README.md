@@ -5,7 +5,7 @@ This is a geodata repository containing shapefiles and maps [image, kmz, pdf] su
 NOTE: refer to <b>README text files</b> in each /geodata/shp/ directory for descriptions of attributes.
 
 
-Download the <a href="http://www.peakmaps.com/sawatch/MAPBOOK-1980-2010_ColdSeason_Snowfall_CAIC_v1_1.pdf" target="blank">Full Mapbook</a>.
+Download the <a href="https://1drv.ms/b/s!AkYEClXh31wagup1WzHME77kkqYTZg" target="blank">Full Mapbook</a>.
 
 <a href="http://arc.lib.montana.edu/snow-science/objects/ISSW14_paper_P1.15.pdf" target="_blank">Climate-Scale Maps of Cold-Season Precipitation in the Mountainous Areas of Colorado for Operational Forecasting Applications</a>
 
