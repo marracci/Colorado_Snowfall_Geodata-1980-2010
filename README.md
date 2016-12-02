@@ -5,7 +5,7 @@ This is a geodata repository containing shapefiles and maps [image, kmz, pdf] su
 NOTE: refer to <b>README text files</b> in each /geodata/shp/ directory for descriptions of attributes.
 
 
-Download the <a href="http://www.peakmaps.com/sawatch/MAPBOOK-1980-2010_ColdSeason_Snowfall_CAIC_v1_1.pdf" target="blank">Full Mapbook</a>.
+Download the <a href="https://1drv.ms/b/s!AkYEClXh31wagup1WzHME77kkqYTZg" target="blank">Full Mapbook</a>.
 
 <a href="http://arc.lib.montana.edu/snow-science/objects/ISSW14_paper_P1.15.pdf" target="_blank">Climate-Scale Maps of Cold-Season Precipitation in the Mountainous Areas of Colorado for Operational Forecasting Applications</a>
 
@@ -22,4 +22,3 @@ Ethan Greene  [ Colorado Avalanche Information Center, Boulder, CO, USA ]<br><br
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Climate-Scale Maps of Cold-Season Precipitation in the Mountainous Areas of Colorado for Operational Forecasting Applications</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://arc.lib.montana.edu/snow-science/item/2095" property="cc:attributionName" rel="cc:attributionURL">B.J. Marraccini, B. Lazar and E. Greene</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
-
